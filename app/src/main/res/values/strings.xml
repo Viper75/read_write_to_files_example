@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Read Write to files example</string>
+    <string name="title_hint">Title</string>
+    <string name="note_hint">Write something here...</string>
+    <string name="save_btn_text">Save</string>
+    <string name="retrieve_btn_text">Retrieve Autosaved Note</string>
+</resources>
